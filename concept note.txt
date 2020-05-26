@@ -1,0 +1,33 @@
+Free throw
+Write a query to return information on the tables in the database.
+Write and run another query that returns the first 5 rows of the facts table in the database.
+
+
+Write a single query that returns the:
+
+Minimum population
+Maximum population
+Minimum population growth
+Maximum population growth
+
+
+Write a query that returns the countrie(s) with the minimum population.
+Write a query that returns the countrie(s) with the maximum population.
+
+
+Calculate the average value for the following columns:
+population
+area
+
+
+Write a query that finds all countries meeting both of the following conditions:
+The population is above average.
+The area is below average.
+
+
+That's it for the guided steps. Here are some next steps for you to explore:
+
+Which countries have the highest ratios of water to land? Which countries have more water than land?
+Which countries will add the most people to their population next year?
+Which countries have a higher death rate than birth rate?
+Looking for feedback on your project? Or maybe you'd like to show it off? Head over to our Community to share your finished Guided Project! You can also view your peers' completed notebooks to see how they approached the project.
